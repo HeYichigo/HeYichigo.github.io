@@ -1,3 +1,6 @@
+---
+permalink: /java/object.html
+---
 ``` java
 import java.lang.Object
 ```

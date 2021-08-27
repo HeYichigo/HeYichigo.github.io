@@ -1,6 +1,9 @@
 lsi: false
 safe: true
 source: "./docs"
+include:
+  - "./_posts"
+  - "./_layouts"
 incremental: false
 highlighter: rouge
 gist:
