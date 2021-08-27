@@ -1,3 +1,10 @@
+---
+layout: post
+title: java.lang.Object
+subtitle: 对于 Object 的个人理解
+tags: [test]
+comments: true
+---
 
 ``` java
 import java.lang.Object
