@@ -120,6 +120,10 @@
   <link rel="canonical" href="{{ page.url | absolute_url | strip_index }}">
   {% endif %}
 
+  {% if site.favicon %}
+  <link rel="icon" href="{{ site.favicon | absolute_url}}" type="image/x-icon">
+  {% endif %}
+
   {% if img != "" and img != site.avatar %}
   <meta name="twitter:card" content="summary_large_image">
   {% else %}
