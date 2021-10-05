@@ -55,7 +55,7 @@ last-updated: 2021-10-04 22:24
    下限**Min**有两种情况：
 
    1. $B \geq 0$ 此时 $Min = 0$
-   2. $B < 0$ 此时 $2^{n-1} <  \mid B \mid \leq 2^n - 1 = -Min$
+   2. $B < 0$ 此时 $2^{n-1} <\mid B\mid\leq 2^n - 1 = -Min$
 
 7. 理解指针的新方法：
 
